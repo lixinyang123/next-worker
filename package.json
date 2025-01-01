@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "pages:build": "npx @cloudflare/next-on-pages",
+    "pages:build": "npx @cloudflare/next-on-pages --custom-entrypoint=worker.ts",
     "pages:preview": "npm run pages:build && wrangler pages dev",
     "pages:deploy": "npm run pages:build && wrangler pages deploy"
   },
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@cloudflare/next-on-pages": "^1.13.7",
+    "@cloudflare/workers-types": "^4.20241230.0",
     "@eslint/eslintrc": "^3",
     "@types/node": "^20",
     "@types/react": "^19",
