@@ -1,0 +1,34 @@
+{
+  "navbar": {
+    "next_on_workers": "Next.js on Workers",
+    "getting_started": "Getting started",
+    "components": "Components",
+    "documentation": "Documentation",
+    "__comment__1": "__getting_started__",
+    "shadcn_ui": "shadcn/ui",
+    "beautifully_designed_components": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "introduction": "Introduction",
+    "reusable_components_built": "Re-usable components built using Radix UI and Tailwind CSS.",
+    "installation": "Installation",
+    "install_dependencies": "How to install dependencies and structure your app.",
+    "typography": "Typography",
+    "styles_for_headings": "Styles for headings, paragraphs, lists...etc",
+    "__comment__2": "__components__",
+    "alert_dialog": "Alert Dialog",
+    "a_modal_dialog": "A modal dialog that interrupts the user with important content and expects a response.",
+    "progress": "Progress",
+    "displays_an_indicator": "Displays an indicator showing the completion progress of a task, typically displayed as a progress bar.",
+    "tooltip": "Tooltip",
+    "displays_information": "A popup that displays information related to an element when the element receives keyboard focus or the mouse hovers over it."
+  },
+  "home": {
+    "get_started_by_editing": "Get started by editing.",
+    "file_name": "src/app/page.tsx",
+    "save_and_see_changes": "Save and see your changes instantly.",
+    "deploy_now": "Deploy now",
+    "read_docs": "Read our docs",
+    "learn": "Learn",
+    "examples": "Examples",
+    "go_to_nextjs": "Go to nextjs.org →"
+  }
+}

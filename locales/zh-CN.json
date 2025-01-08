@@ -1,0 +1,34 @@
+{
+  "navbar": {
+    "next_on_workers": "Next.js on Workers",
+    "getting_started": "开始",
+    "components": "组件",
+    "documentation": "文档",
+    "__comment__1": "__getting_started__",
+    "shadcn_ui": "shadcn/ui",
+    "beautifully_designed_components": "使用 Radix UI 和 Tailwind CSS 构建的精美设计组件。",
+    "introduction": "介绍",
+    "reusable_components_built": "使用 Radix UI 和 Tailwind CSS 构建的可重用组件。",
+    "installation": "安装",
+    "install_dependencies": "如何安装依赖项和构建应用程序。",
+    "typography": "字体和排版",
+    "styles_for_headings": "标题、段落、列表的样式...等。",
+    "__comment__2": "__components__",
+    "alert_dialog": "Alert Dialog",
+    "a_modal_dialog": "模态对话框，用重要内容打断用户并期望得到响应。",
+    "progress": "Progress",
+    "displays_an_indicator": "显示一个指示器，用于显示任务的完成进度，通常以进度条的形式呈现。",
+    "tooltip": "Tooltip",
+    "displays_information": "当某个元素获得键盘焦点或鼠标悬停在其上时，会弹出一个弹出框，显示与该元素相关的信息。"
+  },
+  "home": {
+    "get_started_by_editing": "从编辑开始。",
+    "file_name": "src/app/page.tsx",
+    "save_and_see_changes": "保存并立即查看您的更改。",
+    "deploy_now": "立即部署",
+    "read_docs": "阅读文档",
+    "learn": "学习",
+    "examples": "例子",
+    "go_to_nextjs": "转到 nextjs.org →"
+  }
+}
